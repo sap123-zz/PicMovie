@@ -1,7 +1,6 @@
-PicMovie
-========
+PicMovie.
+********
 
-Here name suggest that we want to develop a slideshow like program that displays Images(further model with deal with sounds)
-This is like we are playing video file in a media player installed on your PC
-this initial release will hold the code in single class file may be two if possible.. and further we would make into various 
-class files. 
+
+As the name suggests PicMovie means we have to show slideshow like program using java (swing).First of all we will deal only
+with images slideshow.. and then we will deal with sounds and other effects First release will have only 1 class file after releases will be converted into many class files depending upon the use and their specifications. Hope this information will get to to you up to the point
